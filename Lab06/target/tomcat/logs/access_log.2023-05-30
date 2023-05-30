@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [30/May/2023:04:37:22 +0300] "GET /Lab06/students?name=1&surname=2&middlename=3&exam=4&result=5 HTTP/1.1" 200 97 http-bio-9090-exec-1 590
